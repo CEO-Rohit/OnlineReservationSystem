@@ -1,2 +1,19 @@
-# OnlineReservationSystem
-Online Reservation System using JSP, Servlets, and MySQL with MVC architecture. Includes login, reservation, and cancellation modules. Built with Eclipse, styled using Bootstrap, and fully database-integrated. Simple, functional, and ready to deploy.
+# Ignore compiled files
+*.class
+
+# Ignore Eclipse specific files
+.settings/
+*.project
+*.classpath
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore build output
+/bin/
+build/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
