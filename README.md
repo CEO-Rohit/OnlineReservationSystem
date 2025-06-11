@@ -1,19 +1,17 @@
-# Ignore compiled files
-*.class
+# Online Reservation System - Java JSP/Servlet Project
 
-# Ignore Eclipse specific files
-.settings/
-*.project
-*.classpath
+This is a simple Online Reservation System built using **Java**, **JSP**, **Servlets**, and **MySQL** following the **MVC architecture**.
 
-# Ignore temporary files
-*.log
-*.tmp
+## 🔧 Modules Included
+- ✅ Login System (Authentication)
+- ✅ Ticket Reservation
+- ✅ Ticket Cancellation
 
-# Ignore build output
-/bin/
-build/
+## ⚙️ Tech Stack
+- Java (JSP + Servlets)
+- MySQL
+- HTML + Bootstrap
+- JDBC
+- MVC Pattern
+- Eclipse IDE
 
-# Ignore OS-specific files
-.DS_Store
-Thumbs.db
